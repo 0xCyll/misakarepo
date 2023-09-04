@@ -45,9 +45,6 @@
             "HeaderImage": "https://cdn.discordapp.com/attachments/1148241314517893130/1148243916861214831/dch5rcw-19aa9a04-3cc9-4ba6-853b-ccfa87f54fdd.gif",
             "Category":"App Custom",
             "Caption": "Remove headphone limit",
-            //"Screenshot": [
-            //    "URL"
-            //],
             "Releases":[
                 {
                     "Version": "1.0",
