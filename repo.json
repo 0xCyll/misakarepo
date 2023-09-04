@@ -1,0 +1,62 @@
+{
+    "RepositoryName":"Cyll's Repo",
+    "RepositoryDescription": "Test tweaks for KFD/MDC",
+    "RepositoryAuthor": "Cyll",
+    "RepositoryIcon": "https://developer.riotgames.com/static/img/katarina.55a01cf0560a.gif",
+    "RepositoryWebsite": "https://github.com/0xCyll/misakarepo",
+    "default": {
+        "HeaderImage": "https://tenor.com/view/jfk-black-ops-zombies-black-ops-zobies-zombies-gif-21645919",
+        "Author": {
+            "Label": "Cyll",
+            "Links":[
+                {
+                    "Label": "Github",
+                    "Link": "https://github.com/0xCyll"
+                }
+            ]
+
+        },
+        "ViewCount": true
+    },
+    "DefaultHeaderImage": "https://tenor.com/view/jfk-black-ops-zombies-black-ops-zobies-zombies-gif-21645919",
+    "RepositoryContents": [
+        {
+            "Name": "RemoveVolumeLimits",
+            "Description":"Removes headphones volume limits",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author":{
+                "Label":"Cyll",
+                "Links":[
+                    {
+                        "Label":"Github",
+                        "Link":"https://github.com/0xCyll"
+                    }
+                ]
+            },
+            "Icon":"https://cdn.discordapp.com/attachments/1148241314517893130/1148243556398546995/2048px-Speaker_Icon.png",
+            "HeaderImage": "https://cdn.discordapp.com/attachments/1148241314517893130/1148243916861214831/dch5rcw-19aa9a04-3cc9-4ba6-853b-ccfa87f54fdd.gif",
+            "Category":"App Custom",
+            "Caption": "Remove headphone limit",
+            //"Screenshot": [
+            //    "URL"
+            //],
+            "Releases":[
+                {
+                    "Version": "1.0",
+                    "Package+": "https://cdn.discordapp.com/attachments/1148244058460926063/1148244157706535004/com.Cyll.RemoveVolLim.misaka"
+                }
+            ],
+            "PacakgeID":"com.Cyll.RemoveVolLim"   
+
+        }
+    ]
+
+}
