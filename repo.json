@@ -3,7 +3,7 @@
     "RepositoryDescription": "Test tweaks for KFD/MDC",
     "RepositoryAuthor": "Cyll",
     "RepositoryIcon": "https://developer.riotgames.com/static/img/katarina.55a01cf0560a.gif",
-    "RepositoryWebsite": "https://github.com/0xCyll/misakarepo",
+    "RepositoryWebsite": "https://github.com/0xCyll/mikasarepo",
     "default": {
         "HeaderImage": "https://tenor.com/view/jfk-black-ops-zombies-black-ops-zobies-zombies-gif-21645919",
         "Author": {
@@ -51,7 +51,7 @@
                     "Package+": "https://cdn.discordapp.com/attachments/1148244058460926063/1148244157706535004/com.Cyll.RemoveVolLim.misaka"
                 }
             ],
-            "PacakgeID":"com.Cyll.RemoveVolLim"   
+            "PackageID":"com.Cyll.RemoveVolLim"   
 
         }
     ]
